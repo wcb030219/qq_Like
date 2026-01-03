@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/bold.png</file>
+        <file>resource/Cherry.png</file>
+        <file>resource/clear.png</file>
+        <file>resource/close.png</file>
+        <file>resource/color.png</file>
+        <file>resource/dr.png</file>
+        <file>resource/italic.png</file>
+        <file>resource/jj.png</file>
+        <file>resource/lswh.png</file>
+        <file>resource/qmnn.png</file>
+        <file>resource/qq.png</file>
+        <file>resource/save.png</file>
+        <file>resource/spqy.png</file>
+        <file>resource/under.png</file>
+        <file>resource/ymrl.png</file>
+        <file>resource/yunjing.jpg</file>
+    </qresource>
+</RCC>
